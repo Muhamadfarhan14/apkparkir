@@ -44,7 +44,7 @@
                       <td><?php echo $row['jam_keluar'] ?></td>
                       <td class="text-center">
 
-                        <a href="edit-parkir.php?id=<?php echo $row['id_parkir'] ?>" class="btn btn-sm btn-primary">EDIT</a>
+                        <a href="edit-parkir.php?id=<?php echo $row['id_parkir'] ?>" class="btn btn-sm btn-success">EDIT</a>
                         <a href="jam-keluar.php?id=<?php echo $row['id_parkir'] ?>" class="btn btn-sm btn-primary">UPDATE JAM KELUAR</a>
                         <a href="hapus-parkir.php?id=<?php echo $row['id_parkir'] ?>" class="btn btn-sm btn-danger">HAPUS</a>
                       </td>

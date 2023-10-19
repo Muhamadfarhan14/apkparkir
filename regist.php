@@ -65,7 +65,7 @@
                     });
                 } else {
                     $.ajax({
-                        url: "simpan-register.php",
+                        url: "simpan-regist.php",
                         type: "POST",
                         data: {
                             "nama_lengkap": nama_lengkap,

@@ -33,7 +33,7 @@
           </div>
 
           <div class="text-center" style="margin-top: 15px">
-            Belum punya akun? <a href="register.php">Silahkan Register</a>
+            Belum punya akun? <a href="regist.php">Silahkan Register</a>
           </div>
 
         </div>
